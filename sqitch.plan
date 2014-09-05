@@ -4,3 +4,5 @@
 
 appschema 2014-09-04T18:40:34Z Marge N. O’Vera <marge@example.com> # Add schema for all flipr objects.
 users [appschema] 2014-09-04T23:40:15Z Marge N. O’Vera <marge@example.com> # Creates table to track our users.
+flips [appschema users] 2014-09-05T00:16:58Z Marge N. O’Vera <marge@example.com> # Adds table for storing flips.
+userflips [appschema users flips] 2014-09-05T00:18:43Z Marge N. O’Vera <marge@example.com> # Creates the userflips view.
