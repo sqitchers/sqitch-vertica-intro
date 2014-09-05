@@ -1,6 +1,6 @@
 -- Verify userflips
 
-SELECT id, nickname, fullname, twitter, body, timestamp
+SELECT id, nickname, fullname, body, timestamp
   FROM flipr.userflips
  WHERE FALSE;
 
