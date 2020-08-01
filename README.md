@@ -4,8 +4,8 @@ Sqitch Vertica Intro
 A tutorial repository demonstrating how to manage an
 [Vertica](http://https://my.vertica.com/) database with
 [Sqitch](http://sqitch.org/). The actual tutorial is
-[`sqitchtutorial-vertica`](https://github.com/theory/sqitch/blob/master/lib/sqitchtutorial-vertica.pod);
-this respository is actually the example repository described in the tutorial.
+[`sqitchtutorial-vertica`](https://sqitch.org/docs/manual/sqitchtutorial-vertica/);
+this repository is actually the example repository described in the tutorial.
 So you may want to look at the history here. Or clone this repository and run
 `sqitch` against various checkouts or just against the Git history.
 
